@@ -32,7 +32,7 @@ So, index `3` is an equilibrium index.
 ---
 
  C Code (No function used):
-
+  ```
 
 #include <stdio.h>
 
